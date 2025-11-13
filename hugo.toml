@@ -1,4 +1,4 @@
-baseURL = 'https://ilexiv.github.io/GovTrade/'
+baseURL = 'https://gov-trade.com/'
 languageCode = 'en-us'
 title = 'Gov Trade'
 theme = 'ananke'

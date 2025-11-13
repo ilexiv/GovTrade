@@ -1,0 +1,14 @@
+# Hugo build files
+public/
+resources/
+
+# Build lock
+.hugo_build.lock
+
+# OS files
+.DS_Store
+
+# Empty/unused folders
+data/
+i18n/
+assets/

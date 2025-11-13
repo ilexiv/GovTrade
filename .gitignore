@@ -7,8 +7,3 @@ resources/
 
 # OS files
 .DS_Store
-
-# Empty/unused folders
-data/
-i18n/
-assets/
